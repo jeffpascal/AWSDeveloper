@@ -1,0 +1,1 @@
+ssh -i .\linuxssh.pem ubuntu@35.177.71.102
